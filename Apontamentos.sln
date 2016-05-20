@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApontamentosModel", "ApontamentosModel\ApontamentosModel.csproj", "{CC62B72F-FCA4-42D6-8017-D75213A91324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApontamentosDal", "ApontamentosDal\ApontamentosDal.csproj", "{89377FB0-2C69-4FF3-BD76-EAB146E59497}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApontamentosUi", "ApontamentosUi\ApontamentosUi.csproj", "{95E9E236-CC82-4612-AD1E-BA19A609EC8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC62B72F-FCA4-42D6-8017-D75213A91324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC62B72F-FCA4-42D6-8017-D75213A91324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC62B72F-FCA4-42D6-8017-D75213A91324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC62B72F-FCA4-42D6-8017-D75213A91324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89377FB0-2C69-4FF3-BD76-EAB146E59497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89377FB0-2C69-4FF3-BD76-EAB146E59497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89377FB0-2C69-4FF3-BD76-EAB146E59497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89377FB0-2C69-4FF3-BD76-EAB146E59497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95E9E236-CC82-4612-AD1E-BA19A609EC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E9E236-CC82-4612-AD1E-BA19A609EC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E9E236-CC82-4612-AD1E-BA19A609EC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E9E236-CC82-4612-AD1E-BA19A609EC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
